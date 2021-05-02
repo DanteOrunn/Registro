@@ -1,3 +1,5 @@
+package utilidad;
+
 public class Cola {
     
     private Nodo inicioCola;

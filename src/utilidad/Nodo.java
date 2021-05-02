@@ -1,6 +1,5 @@
-/**
- * 
- */
+package utilidad;
+
 public class Nodo {
    
     private String informacion;

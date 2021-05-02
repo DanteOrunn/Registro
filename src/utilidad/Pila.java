@@ -1,6 +1,5 @@
-/**
- * 
- */
+package utilidad;
+
 public class Pila {
     
     private Nodo ultimoDato;
