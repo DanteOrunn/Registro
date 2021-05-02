@@ -5,6 +5,10 @@ public class Nodo {
     private String informacion;
     private Nodo siguiente;
 
+    public Nodo(){
+        
+    }
+
     public Nodo(String informacion){
         this.informacion = informacion;
         this.siguiente = null;
